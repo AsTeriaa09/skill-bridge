@@ -9,7 +9,7 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 
   <img src="/public/skill_bridge.png" alt="ide" width="500"/>
 
-### 🎯 NeoCampus: Bridging Education and Industry
+### 🎯 Bridging: Education and Industry
 
 [Report Bug](https://github.com/AsTeriaa09/skill-bridge) · [Request Feature](https://github.com/AsTeriaa09/skill-bridge) · [Pull Request](https://github.com/AsTeriaa09/skill-bridge) 
 
