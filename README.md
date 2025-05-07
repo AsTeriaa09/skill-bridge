@@ -32,6 +32,9 @@ https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content
 ## Live Link
 https://skill-bridge-opal.vercel.app/
 
+## SRS Doc
+https://docs.google.com/document/d/18nQNcY3m4-zjp66LtBDyOyF2pnlTGuK-2VcykpMmsQc/edit?usp=sharing
+
 ## 🚀 System Design Diagrams
 
 ### Use Case Diagram
