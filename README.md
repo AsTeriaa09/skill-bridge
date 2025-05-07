@@ -32,10 +32,10 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 ![alt text](/public/dia2.jpeg)
 
 ### Squence
-![alt text](/public/dia2Last.jpeg)
+![alt text](/public/dia3.png)
 
 ### ER Diagram
-![alt text](/public/dia3.jpeg)
+![alt text](/public/diaEN.jpeg)
 
 ### Class Diagram
 ![alt text](/public/dia1.jpeg)
