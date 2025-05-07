@@ -35,7 +35,7 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 ![alt text](/public/dia2Last.jpeg)
 
 ### ER Diagram
-![alt text](/public/diaEN.jpeg)
+![alt text](/public/dia3.jpeg)
 
 ### Class Diagram
 ![alt text](/public/dia1.jpeg)
