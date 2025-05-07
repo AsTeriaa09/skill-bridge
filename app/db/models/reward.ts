@@ -9,5 +9,5 @@ const BadgeSchema = new Schema({
      points:        { type: Number, required: true },  // current points
      nextMilestone: { type: Number, required: true },  // e.g. 1500
      badges:        [BadgeSchema]
-   }, { timestamps: true });
+   }, { timestamps: true });kdfjd
    
