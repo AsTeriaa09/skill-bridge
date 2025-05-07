@@ -121,7 +121,7 @@ export default function ProblemManagementPage() {
           <h2 className="text-xl font-bold">Manage Your Problems</h2>
           <Dialog>
             <DialogTrigger asChild>
-              <Button className="bg-emerald-600 hover:bg-emerald-700 gap-2">
+              <Button className="bg-orange-600 hover:bg-orange-700 gap-2">
                 <PlusCircle className="h-4 w-4" />
                 Create New Problem
               </Button>
@@ -178,7 +178,7 @@ export default function ProblemManagementPage() {
               </div>
               <DialogFooter>
                 <Button variant="outline">Cancel</Button>
-                <Button className="bg-emerald-600 hover:bg-emerald-700">Create Problem</Button>
+                <Button className="bg-orange-600 hover:bg-orange-700">Create Problem</Button>
               </DialogFooter>
             </DialogContent>
           </Dialog>
