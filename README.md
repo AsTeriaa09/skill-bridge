@@ -29,6 +29,9 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 ## 🌟 PPTX
 https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content=DAGmvAO_anA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Live Link
+https://skill-bridge-opal.vercel.app/
+
 ## 🚀 System Design Diagrams
 
 ### Use Case Diagram
