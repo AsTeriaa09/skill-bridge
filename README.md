@@ -2,14 +2,14 @@
 
 
 
-By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09](https://github.com/AsTeriaa09), [@atik64](https://github.com/atik65), [mdyhakash](https://github.com/mdyhakash)
+By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09](https://github.com/AsTeriaa09), [@atik65](https://github.com/atik65), [mdyhakash](https://github.com/mdyhakash)
 <div align="center">
 
 <br />
 
   <img src="/public/skill_bridge.png" alt="ide" width="500"/>
 
-### 🎯 NeoCampus: Bridging Education and Industry
+### 🎯 Bridging: Education and Industry
 
 [Report Bug](https://github.com/AsTeriaa09/skill-bridge) · [Request Feature](https://github.com/AsTeriaa09/skill-bridge) · [Pull Request](https://github.com/AsTeriaa09/skill-bridge) 
 
@@ -25,6 +25,12 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 ## 🌟 Overview
 
 **SkillBridge** SkillBridge: Bridging Education and Industry
+
+## 🌟 PPTX
+https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content=DAGmvAO_anA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Live Link
+https://skill-bridge-opal.vercel.app/
 
 ## 🚀 System Design Diagrams
 
