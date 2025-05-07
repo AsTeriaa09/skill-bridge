@@ -2,7 +2,7 @@
 
 
 
-By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09](https://github.com/AsTeriaa09), [@atik64](https://github.com/atik65), [mdyhakash](https://github.com/mdyhakash)
+By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09](https://github.com/AsTeriaa09), [@atik65](https://github.com/atik65), [mdyhakash](https://github.com/mdyhakash)
 <div align="center">
 
 <br />
@@ -25,6 +25,9 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 ## 🌟 Overview
 
 **SkillBridge** SkillBridge: Bridging Education and Industry
+
+## 🌟 PPTX
+https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content=DAGmvAO_anA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 🚀 System Design Diagrams
 
