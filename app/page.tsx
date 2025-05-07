@@ -12,16 +12,16 @@ export default function Home() {
           <div className="flex items-center gap-2">
             {/* <TrendingUp className="h-6 w-6 text-orange-600" />
             <span className="text-xl font-bold">SkillBridge</span> */}
-            <img src="/logo.png" alt="" className="w-40" />
+            <img src="/logo.png" alt="" className="w-36" />
           </div>
           <nav className="hidden md:flex items-center gap-6">
-            <Link href="#features" className="text-sm font-medium hover:text-orange-600 transition-colors">
+            <Link href="#features" className=" font-medium hover:text-orange-600 transition-colors">
               Features
             </Link>
-            <Link href="#how-it-works" className="text-sm font-medium hover:text-orange-600 transition-colors">
+            <Link href="#how-it-works" className=" font-medium hover:text-orange-600 transition-colors">
               How It Works
             </Link>
-            <Link href="#dashboards" className="text-sm font-medium hover:text-orange-600 transition-colors">
+            <Link href="#dashboards" className=" font-medium hover:text-orange-600 transition-colors">
               Dashboards
             </Link>
           </nav>

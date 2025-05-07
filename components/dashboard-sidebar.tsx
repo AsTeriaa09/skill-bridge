@@ -104,9 +104,7 @@ export function DashboardSidebar() {
       { href: "/dashboard/industry/problem-management", icon: FileText, label: "Problem Management" },
       { href: "/dashboard/industry/task-evaluation", icon: CheckCircle, label: "Task Evaluation" },
       { href: "/dashboard/industry/submissions", icon: BookOpen, label: "Submissions" },
-      { href: "/dashboard/industry/talent", icon: Users, label: "Talent Pool" },
-      { href: "/dashboard/industry/analytics", icon: BarChart3, label: "Analytics" },
-      { href: "/dashboard/industry/settings", icon: Settings, label: "Settings" },
+     
     ],
     admin: [
       { href: "/dashboard/admin", icon: LayoutDashboard, label: "Dashboard" },
@@ -116,8 +114,7 @@ export function DashboardSidebar() {
       { href: "/dashboard/admin/students", icon: GraduationCap, label: "Students" },
       { href: "/dashboard/admin/industries", icon: Building2, label: "Industries" },
       { href: "/dashboard/admin/problems", icon: FileText, label: "All Problems" },
-      { href: "/dashboard/admin/analytics", icon: BarChart3, label: "Analytics" },
-      { href: "/dashboard/admin/settings", icon: Settings, label: "Settings" },
+      
     ],
   }
 
@@ -140,8 +137,8 @@ export function DashboardSidebar() {
             return (
               <SidebarMenuItem key={item.href}>
                 <SidebarMenuButton asChild isActive={isActive(path, tab)}>
-                  <Link href={item.href}>
-                    <item.icon className="h-5 w-5" />
+                  <Link href={item.href} className="pl-6">
+                    <item.icon className="h-5 w-5 text-orange-600 hover:text-orange-700" />
                     <span>{item.label}</span>
                   </Link>
                 </SidebarMenuButton>
