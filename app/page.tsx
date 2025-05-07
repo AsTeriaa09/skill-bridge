@@ -56,7 +56,7 @@ export default function Home() {
           </div>
           <div className="relative h-[400px] rounded-lg bg-gray-100 overflow-hidden">
             <img
-              src="/placeholder.svg?height=400&width=600"
+              src='/Background.png'
               alt="SkillBridge Platform"
               className="object-cover w-full h-full"
             />
