@@ -418,7 +418,7 @@ export default function TaskEvaluationPage() {
               <Button variant="outline" onClick={() => setEvaluationDialogOpen(false)}>
                 Cancel
               </Button>
-              <Button className="bg-emerald-600 hover:bg-emerald-700" onClick={handleSubmitEvaluation}>
+              <Button className="bg-orange-600 hover:bg-orange-700" onClick={handleSubmitEvaluation}>
                 <CheckCircle className="h-4 w-4 mr-2" />
                 Submit Evaluation
               </Button>
@@ -531,7 +531,7 @@ function SubmissionCard({
       </CardContent>
       <CardFooter className="flex justify-end border-t pt-4">
         {submission.status === "pending" ? (
-          <Button className="bg-emerald-600 hover:bg-emerald-700" onClick={() => onEvaluate(submission)}>
+          <Button className="bg-orange-600 hover:bg-orange-700" onClick={() => onEvaluate(submission)}>
             <CheckCircle className="h-4 w-4 mr-2" />
             Evaluate Submission
           </Button>
