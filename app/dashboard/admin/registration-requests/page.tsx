@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { Suspense, useState } from "react"
 import { DashboardHeader } from "@/components/dashboard-header"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
@@ -220,6 +220,8 @@ export default function RegistrationRequestsPage() {
   }
 
   return (
+
+    <Suspense fallback={<div>Loading...</div>}>
     <div>
       <DashboardHeader title="Registration Requests" />
       <div className="p-6 space-y-6">
@@ -575,5 +577,7 @@ export default function RegistrationRequestsPage() {
         </AlertDialog>
       </div>
     </div>
+  </Suspense>
+    
   )
 }
