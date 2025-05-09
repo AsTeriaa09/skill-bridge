@@ -26,7 +26,7 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 
 **SkillBridge** SkillBridge: Bridging Education and Industry
 
-## 🌟 PPTX
+##  PPTX
 https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content=DAGmvAO_anA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Live Link
@@ -35,7 +35,7 @@ https://skill-bridge-opal.vercel.app/
 ## SRS Doc
 https://docs.google.com/document/d/18nQNcY3m4-zjp66LtBDyOyF2pnlTGuK-2VcykpMmsQc/edit?usp=sharing
 
-## 🚀 System Design Diagrams
+## System Design Diagrams
 
 ### Use Case Diagram
 ![alt text](/public/dia2.jpeg)
