@@ -24,7 +24,7 @@ By Team Commit_Crew - [@Siratul804](https://github.com/Siratul804), [@AsTeriaa09
 
 ## 🌟 Overview
 
-**SkillBridge** SkillBridge: Bridging Education and Industry
+**SkillBridge**: Bridging Education and Industry
 
 ##  PPTX
 https://www.canva.com/design/DAGmvAO_anA/zArinVhR1ekHnabcuG6ArA/edit?utm_content=DAGmvAO_anA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
